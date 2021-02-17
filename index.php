@@ -12,8 +12,8 @@
 		<!-- <link rel="stylesheet" href="assets/css/main.css" />-->
 		<!--<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>-->
 	</head>
-	<body class="is-preload">
-	
+	<body>
+		<p> hello </p>
 
 	</body>
 </html>
